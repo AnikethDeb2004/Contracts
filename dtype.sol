@@ -25,4 +25,6 @@ bytes1 public a = 0xb5;
 bytes1 public b=0x55;
 
 //Adress 
+address public hi;
+address public addr=0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
 }
